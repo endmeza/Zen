@@ -48,8 +48,11 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
+  <p align="center">
+  Our mission is to preserve life's most special moments. 
+  Whether it's a wedding, a birthday, or even a regular day, our pictures capture the energy of life,     
+  so you can look back and relive everything again.
 
-[![front-image](/READMEdocs/front-image.jpg)](https://example.com)
 
 
 
