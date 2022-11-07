@@ -6,15 +6,10 @@
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
-    <strong>Site URL / Demo » </strong>
-    <a href="https://endmeza.github.io/portfolio">https://really-great-23303903.hubspotpagebuilder.com/reallygreat/really-great</a>
-    <br />
-    <br />
-    <a href="https://endmeza.com">About Me</a>
-    ·
-    <a href="https://github.com/endmeza/portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/endmeza/portfolio/issues">Request Feature</a>
+    <strong> </strong>
+    https://really-great-23303903.hubspotpagebuilder.com/reallygreat/really-great
+   
+  
   </p>
 </p>
 
